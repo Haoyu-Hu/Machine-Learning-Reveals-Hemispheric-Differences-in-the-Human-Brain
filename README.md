@@ -4,6 +4,7 @@ The code includes the part of applying machine learning methods (SVM) to HCP dat
 ### Sources Useful for This Project:
 HCP (Human Connectome Project) Homepage : [HCP](https://www.humanconnectome.org/)
 <br> OHBM 2022 Homepage : [OHBM 2022](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114)
+<br> Link to my poster (must be the member of OHBM 2022 first!): [MY POSTER](https://event.fourwaves.com/cbd65d58-69ab-466d-aa7a-a22731980df6/abstracts/b728357e-151c-4394-be09-4b5d074fbb96)
 ### Project Introduction:
 ```
 Hemispheric asymmetry is a cardinal feature of human brain organization.
