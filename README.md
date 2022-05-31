@@ -2,7 +2,7 @@
 ### This is the code part of the poster "Machine Learning Reveals Hemispheric Differences in the Human Brain" of 2022 OHBM (Organization for Human Brain Mapping) annual meeting
 The code includes the part of applying machine learning methods (SVM) to HCP database from young group (22-35)
 ### Sources Useful for This Project:
-My project containers: 1. [Poster](poster_Haoyu_Hu_OHBM_2022.pdf) 2. [Code](code_explore_brain_asymmtry.ipynb) 3. [Video](video_Haoyu_Hu_OHBM_2022_2.mp4) 4. [Slides](poster_Haoyu_Hu_OHBM_2022.pptx)
+My project consists of: 1. [Poster](poster_Haoyu_Hu_OHBM_2022.pdf) 2. [Code](code_explore_brain_asymmtry.ipynb) 3. [Video](video_Haoyu_Hu_OHBM_2022_2.mp4) 4. [Slides](poster_Haoyu_Hu_OHBM_2022.pptx)
 <br> HCP (Human Connectome Project) Homepage : [HCP](https://www.humanconnectome.org/)
 <br> OHBM 2022 Homepage : [OHBM 2022](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4114)
 <br> Link to my poster (must be the member of OHBM 2022 first!): [MY POSTER](https://event.fourwaves.com/cbd65d58-69ab-466d-aa7a-a22731980df6/abstracts/b728357e-151c-4394-be09-4b5d074fbb96)
